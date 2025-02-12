@@ -4,4 +4,4 @@
 
 ## Education
 
-## Projectes
+## Projects
