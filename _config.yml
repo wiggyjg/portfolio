@@ -3,5 +3,5 @@ logo: /assets/histogram-example-2.png
 #description
 show_downloads: true
 theme: jekyll-theme-minimal
-background_color: '#000'
+background_color: '#999'
 
