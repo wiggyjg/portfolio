@@ -1,12 +1,9 @@
 body {
-  background-color: #f0f0f0;  // Change to your preferred color
-  color: #333;  // This controls the default text color
+  background-color: #232030;  // Change to your preferred color
+  color: #b3b294;  // This controls the default text color
 }
 
-body {
-  color: #222222;  // Set this to your preferred text color
-}
 
 h1, h2, h3, h4, h5, h6 {
-  color: #1a1a1a;  // Change heading colors
+  color: #94a8b3;  // Change heading colors
 }
