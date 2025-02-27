@@ -6,5 +6,7 @@ logo: /assets/histogram-example-2.png
 #description
 show_downloads: true
 #theme: jekyll-theme-minimal
-#background_color: '#999'
+sass:
+  sass_dir: _sass
+  style: compressed
 
