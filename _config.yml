@@ -1,9 +1,10 @@
-#remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
+
 
 title: Jonathan (Wiggy)
 logo: /assets/histogram-example-2.png
 #description
 show_downloads: true
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #background_color: '#999'
 
