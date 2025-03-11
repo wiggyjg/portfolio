@@ -1,6 +1,6 @@
 ![Header](assets/Header.png) 
 
-# Data Science CV
+# About Me
 
 ## Work Experience
 ---
