@@ -13,7 +13,7 @@ Customer Sercice Operations
 ---
 ## Education
 Data Analytics Degree
-[![IMAGE ALT TEXT HERE]()](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ---
 ## Projects
-![Histogram](assets/histogram-example-2.png) 
+[Link to another page](./another-page.html)
