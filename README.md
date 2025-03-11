@@ -13,7 +13,7 @@ ___
 
 ## Education
 - Data Analytics Degree (Distinction)
-- Some other stuff, I'll need to dig it out.
+- Some other stuff, I'll need to dig it out..
 ___
 
 ## Projects
