@@ -1,10 +1,10 @@
-#Homebrew Recipe for Success
-###Can we predict the end abv ahlcohol level of a beer from the ingredients used?
+# Homebrew Recipe for Success
+### Can we predict the end abv ahlcohol level of a beer from the ingredients used?
 
-##Why would we want to do this?
+## Why would we want to do this?
 Recent changes to UK alcohol taxation have resulted in a higher tax payment for a higher alcohol percentage (Abv) beverage. By discovering the correlation between ingredients and the final Abv, breweries can optimize recipes and brewing techniques for their products to reach a desired Abv and meet set criteria for a desired taxation bracket.
 
-##Methodology
+## Methodology
 Create a regression model to determine how quantities of ingredients, specifically sugar influence the final ABV alcohol percentage.
 
-##Sourcing and Cleaning
+## Sourcing and Cleaning
