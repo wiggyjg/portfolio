@@ -17,6 +17,6 @@ ___
 ___
 
 ## Projects
-[![Homebrew Recipe for Success](assets/Homebrew.png)](./homebrew_recipe_for_success.md)
+[![Homebrew Recipe for Success](assets/Homebrew.png)](https://wiggyjg.github.io/portfolio/homebrew_recipe_for_success.html) 
 
 [Homebrew Recipe for Success](./homebrew_recipe_for_success.md)
