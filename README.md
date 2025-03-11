@@ -12,8 +12,8 @@ I have 19 years of experience in the Telecoms industry in varying roles such as:
 ___
 
 ## Education
-Data Analytics Degree Distinction
-Some other stuff, I'll need to dig it out.
+- Data Analytics Degree (Distinction)
+- Some other stuff, I'll need to dig it out.
 ___
 
 ## Projects
