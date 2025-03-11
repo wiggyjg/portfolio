@@ -2,7 +2,7 @@
 
 # About Me
 Unearthing digital sands for the gold within
-
+---
 ## Work Experience
 I have 19 years of experience in the Telecoms industry in varying roles such as:
 HR Analytics Manager
