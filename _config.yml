@@ -3,7 +3,7 @@ logo: /assets/JGHeadshot2.png
 #description
 show_downloads: true
 
-![pyramidofneeds](assets/Pyramid.png) 
+#![pyramidofneeds](assets/Pyramid.png) 
 
 theme: jekyll-theme-minimal
 
