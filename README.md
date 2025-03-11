@@ -16,4 +16,4 @@ Data Analytics Degree
 
 ---
 ## Projects
-[Link to another page](./homebrew_recipe_for_success.md)
+[Homebrew Recipe for Success](./homebrew_recipe_for_success.md)
