@@ -16,6 +16,6 @@ Data Analytics Degree
 
 ---
 ## Projects
-[![Homebrew Recipe for Success](assets/Homebrew.png])](./homebrew_recipe_for_success.md)
+[![Homebrew Recipe for Success](assets/Homebrew.png)](./homebrew_recipe_for_success.md)
 ![Homebrew](assets/Homebrew.png)
 [Homebrew Recipe for Success](./homebrew_recipe_for_success.md)
