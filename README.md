@@ -1,4 +1,4 @@
-![Header](assets/Header.png) 
+![Header](assets/Header2.png) 
 
 # About Me
 ___
