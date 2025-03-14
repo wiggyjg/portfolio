@@ -1,7 +1,7 @@
 ![Header](assets/Header4.png) 
 
 # About Me
-I see myself as a data translator; the middle-man between your questions and the data which may hold the truth you seek.
+I see myself as a data translator; the middle-man between your questions and the raw data which may hold the truth you seek.
 
 ___
 
