@@ -13,4 +13,5 @@ Create a regression model to determine how quantities of ingredients, specifical
 <<Placeholder>>
 
 ## Taking a closer look
-DrinksAbv.png
+![Header](assets/DrinksAbv.png.png) 
+
