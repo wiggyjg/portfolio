@@ -11,3 +11,6 @@ Create a regression model to determine how quantities of ingredients, specifical
 
 ## Sourcing and Cleaning
 <<Placeholder>>
+
+## Taking a closer look
+DrinksAbv.png
