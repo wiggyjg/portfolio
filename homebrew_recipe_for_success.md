@@ -16,12 +16,12 @@ This Kaggle dataset included the ingredients, alcohol level and description of a
 
 Each drink in the data set has an entry with numerical values for the following:
 
-Abv- Alcohol by volume (percentage of pure alcohol)
-Ibu- Internation Bitterness units (scale of perceived bitterness)
-Srm – Standard Reference Method (where a beer falls on a colour spectrum)
-Og- Original Gravity (A measure of solids e.g. sugar before fermentation)
-Fg- Final Gravity (A measure of solids e.g. sugar after fermentation)
-Rs – Residual Sugar (sugars that are still present after fermentation)
+* Abv- Alcohol by volume (percentage of pure alcohol)
+* Ibu- Internation Bitterness units (scale of perceived bitterness)
+* Srm – Standard Reference Method (where a beer falls on a colour spectrum)
+* Og- Original Gravity (A measure of solids e.g. sugar before fermentation)
+* Fg- Final Gravity (A measure of solids e.g. sugar after fermentation)
+* Rs – Residual Sugar (sugars that are still present after fermentation)
 
 Data processing involved imputing missing values with averages and, normalising outliers to the maximum value for that drink type. To deal with missing categorisations, a new high-level category was created by consolidating subcategories and using wildcard values to extract from the drink name column.  This technique generated new categories with more entries to facilitate the creation of more robust models.
 
@@ -29,10 +29,9 @@ Data processing involved imputing missing values with averages and, normalising 
 The drinks in the sample are split into three main types, Beer, Cider and Mead.
 
 Count of entries per category:
-Category	count
-Beer		1140
-Cider		37
-Mead		93
+* Beer = 1140
+* Cider = 37
+* Mead = 93
 
 Due to the higher sample size, beer would be most suitable for a regression model as smaller sample sizes risk poor performing overfitted models.
 
