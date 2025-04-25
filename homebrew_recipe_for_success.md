@@ -1015,14 +1015,18 @@ model.summary()
 
 
 
+
+
+### Final Model Evaluation - Ale
+The final model performs well with R Squared (chosen as a goodness of fit measure as only one independent and dependent variable was used) achieving a score of 0.81, suggesting an accuracy of 81%. With MAE and RMSE only deviating by around 0.48 and 0.46, this suggests that the model predictions are close to actual values with few major deviations or errors. 
+
 Though I don't necessarily need to consider Adjusted R Squared (as I used only one dependent and independent variable), the R squared and Adjusted R Squared scores of 0.815, mean that 82% of the variability in Abv can be explained by the Original Gravity even when adjusting for the predictors in the model, which is pretty good and overall I'm satisfied that it is performing well.
 
-
-
-I am aware that formulas have existed for many years that aim to predict the alcohol content of ale from the original gravity and a good next step to verify the performance would be to benchmark this model against real life examples and test each method.
-
+### Other Drinks
 When repeating the regression for other categories, the performance was poor with either a lot of deviation (MAE and RMSE) or a poor R squared score (Mead high but likely overfitted). This is likely due to the smaller number of entries; therefore, with the available dataset this model is only suitable for Ale.
 
+###  Next Steps
+I am aware that formulas have existed for many years that aim to predict the alcohol content of ale from the original gravity and a good next step to verify the performance would be to benchmark this model against real life examples and test each method.
 
 If I were to improve this model I would consider incorporating other features such as brewing time, temperature or yeast content into a multiple regression model, however all the remaining features in the dataset are byproducts of the brewing process and can't be adjusted before fermentation, so I would need a larger dataset to do tis.
 
