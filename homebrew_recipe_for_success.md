@@ -79,4 +79,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import RobustScaler
 import statsmodels.api as sm
 
+![AbvPlaceholder](assets/Recipe For Success Regression-Public.ipynb)
+
+[Home](./Recipe For Success Regression-Public.ipynb)/
 
