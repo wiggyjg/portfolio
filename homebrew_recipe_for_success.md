@@ -1021,6 +1021,7 @@ Though I don't necessarily need to consider Adjusted R Squared (as I used only o
 
 I am aware that formulas have existed for many years that aim to predict the alcohol content of ale from the original gravity and a good next step to verify the performance would be to benchmark this model against real life examples and test each method.
 
+When repeating the regression for other categories, the performance was poor with either a lot of deviation (MAE and RMSE) or a poor R squared score (Mead high but likely overfitted). This is likely due to the smaller number of entries; therefore, with the available dataset this model is only suitable for Ale.
 
 
 If I were to improve this model I would consider incorporating other features such as brewing time, temperature or yeast content into a multiple regression model, however all the remaining features in the dataset are byproducts of the brewing process and can't be adjusted before fermentation, so I would need a larger dataset to do tis.
