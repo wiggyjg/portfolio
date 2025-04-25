@@ -447,7 +447,7 @@ sns.pairplot(df, diag_kind='kde', kind='reg', markers='+')
     
 
 
-The intention of this regression model is to determine the factors that can predict abv levels (the dependant variable), so I need to consider which other datapoint to use as the independent variable. It is common knowledge that sugar and alcohol are related as sugar is eaten by active yeast to produce alcohol, so that is the most likely candidate which confirmed in the above pairplot. It seems that Rs (Residual Sugar) is also a viable option, however this is a byproduct of the brewing process (the left over sugar in the drink) and so can't be used as a predictor. I suspect that Og and Rs are closely related, I can see that better in a heatmap.
+From the PairPlot I can determined that a linear regression was the most suitable model for this data due to the clear linear grouping present. The intention of this regression model is to determine the factors that can predict abv levels (the dependant variable), so I need to consider which other datapoint to use as the independent variable. It is common knowledge that sugar and alcohol are related as sugar is eaten by active yeast to produce alcohol, so that is the most likely candidate which confirmed in the above pairplot. It seems that Rs (Residual Sugar) is also a viable option, however this is a byproduct of the brewing process (the left over sugar in the drink) and so can't be used as a predictor. I suspect that Og and Rs are closely related, I can see that better in a heatmap.
 
 ## Heatmap
 
@@ -567,7 +567,7 @@ sns.heatmap(dfnum.corr(), annot=True)
 
 
     
-![AbvPlaceholder](assets/BoxPlot.png)
+![AbvPlaceholder](assets/Heatmap.png)
     
 
 
