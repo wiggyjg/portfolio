@@ -443,7 +443,7 @@ sns.pairplot(df, diag_kind='kde', kind='reg', markers='+')
 
 
     
-![png](RecipeForSuccessRegressionPublic_files/RecipeForSuccessRegressionPublic_10_1.png)
+![AbvPlaceholder](assets/PairPlot.png) 
     
 
 
@@ -567,7 +567,7 @@ sns.heatmap(dfnum.corr(), annot=True)
 
 
     
-![png](RecipeForSuccessRegressionPublic_files/RecipeForSuccessRegressionPublic_15_1.png)
+![AbvPlaceholder](assets/BoxPlot.png)
     
 
 
