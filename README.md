@@ -1,8 +1,8 @@
 ![Header](assets/Header4.png) 
 
 # About Me
-I am a People Data Analyst who turns business needs into data-driven solutions, a data translator; the middle-man between your questions and the raw data which may hold the truth!
-With years of experience in People Anlytics and leading an HR analytics team, I've built a solid reputation for delivering results. I blend traditional methods with data science to find the best answers. My background in training and eLearning helps me present insights in a clear and engaging way. Let's connect and see how I can help your organization succeed!
+I'm a data transator - a People Data Analyst who turns business needs into data-driven solutions; the middle-man between your questions and the raw data which may hold the truth!
+With years of experience in People Anlytics and leading an HR Analytics team, I've built a solid reputation for delivering results. I blend traditional methods with data science to find the best answers using the most appropriate techniques and technologies. My background in training and eLearning helps me present insights in a clear and engaging way.
 ___
 
 ## Work Experience
