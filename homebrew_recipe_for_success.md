@@ -909,7 +909,7 @@ plt.show()
 
 
     
-![png](RecipeForSuccessRegressionPublic_files/RecipeForSuccessRegressionPublic_57_0.png)
+![AbvPlaceholder](assets/Scatter.png)
     
 
 
