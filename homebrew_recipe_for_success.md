@@ -64,22 +64,7 @@ In two ales, the Abv is clearly much higher and is likely an outlier or data err
 ## Data Analytics
 The remaining analysis was performed in Python.
 
-# Import Libs
-import numpy as np
-import pandas as pd
-import pyodbc
-import seaborn as sns
-%matplotlib inline
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_absolute_error, mean_squared_error
-import matplotlib.pyplot as plt
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.preprocessing import StandardScaler
-from sklearn.preprocessing import RobustScaler
-import statsmodels.api as sm
-
 ![AbvPlaceholder](./RecipeForSuccessRegressionPublic.ipynb)
 
-[Home](./RecipeForSuccessRegressionPublic.ipynb)/
+[Code](./RecipeForSuccessRegressionPublic.ipynb)/
 
